@@ -4,7 +4,7 @@
   <test name="ChromeTest">
     <parameter name="browser" value="chrome" />
      <classes>
-       <class name="com.walmart.internal.gfpp.GFPPHomePageTest">
+       <class name="com.internal.gfpp.GFPPHomePageTest">
        </class>
      </classes>
   </test>
@@ -12,7 +12,7 @@
     <test name="FirefoxTest">
 	  <parameter name="browser" value="firefox" />
 	    <classes>
-	       <class name="com.walmart.internal.gfpp.GFPPHomePageTest">
+	       <class name="com.internal.gfpp.GFPPHomePageTest">
 	       </class>
 	    </classes>
   </test> 
